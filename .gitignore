@@ -1,0 +1,22 @@
+# OS & editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backend
+node_modules/
+.env
+
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android / iOS build
+android/.gradle/
+android/app/build/
+ios/Pods/
+ios/Runner.xcworkspace/
